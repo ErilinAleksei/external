@@ -20,6 +20,5 @@ def main():
     if ipaddr != None :
         print("External IP: %s" % ipaddr)
         
-
 if __name__ == "__main__":
     main()
